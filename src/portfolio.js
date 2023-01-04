@@ -3,7 +3,7 @@ import resume from './components/Access/resume.pdf'
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://morganbb104.github.io/HW_20_Portfolio_withReact/',
+  homepage: 'https',
   title: 'MA.',
 }
 
